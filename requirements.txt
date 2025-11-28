@@ -1,0 +1,12 @@
+--extra-index-url https://download.pytorch.org/whl/cu117
+kornia==0.7.0
+ninja==1.11.1
+numpy==1.24.1
+open3d==0.17.0
+opencv-python==4.8.0.76
+igraph==0.11.4
+torch==2.0.1+cu117
+torchvision==0.15.2+cu117
+easydict==1.10
+tqdm==4.66.1
+yacs==0.1.8
