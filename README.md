@@ -2,7 +2,9 @@
 
 Code implementation of the paper:
 
-ViGG: Robust RGB-D Point Cloud Registration using Visual-Geometric Mutual Guidance
+ViGG: Robust RGB-D Point Cloud Registration using Visual-Geometric Mutual Guidance \[[Arxiv](https://arxiv.org/abs/2511.22908)\]
+
+![](teaser/teaser.png)
 
 ## Requirements & Installation
 - The code has been tested on following environment:  
@@ -89,5 +91,15 @@ python read_evaluate_KITTI.py
       author={Congjia Chen and Shen Yan and Yufu Qu},
       journal={IEEE Winter Conference on Applications of Computer Vision (WACV)},
       year={2026},
+      url={https://arxiv.org/abs/2511.22908}, 
 }
 ```
+
+## Acknowledgements
+
+- [BYOC](https://github.com/mbanani/byoc)
+- [MAC](https://github.com/zhangxy0517/3D-Registration-with-Maximal-Cliques)
+- [LightGlue](https://github.com/cvg/LightGlue)
+- [FCGF](https://github.com/chrischoy/FCGF)
+- [3DMatch](https://3dmatch.cs.princeton.edu/)
+- [KITTI](https://www.cvlibs.net/datasets/kitti/)
